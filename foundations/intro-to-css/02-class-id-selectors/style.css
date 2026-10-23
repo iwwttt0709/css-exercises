@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd-number {
+    background-color: lightcoral;
+    font font-family: "`Verderna`", "`DejaVu Sans`", "`sans-serif`";
+}
+
+.odd-number.but-cooler {
+    font-size: 36px;
+}
+
+#one-ID {
+    color: blue;
+    font-size: 36px;
+}
+
+#another-ID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
