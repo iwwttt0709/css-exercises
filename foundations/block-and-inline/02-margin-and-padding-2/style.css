@@ -6,7 +6,7 @@ body {
 .card {
   width: 400px;
   background: white;
-  margin: 16px auto;
+  margin: 15px auto;
 }
 
 .title,
@@ -15,6 +15,28 @@ body {
   background: dodgerblue;
 }
 
+.card {
+  padding: 3px;
+}
+
+.button-container {
+  text-align: center;
+  margin: 2px;
+}
+
 button {
+  display: block;
   background: white;
+  padding: 10px 24px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 16px;
+  margin: 2px;
+}
+
+.content {
+  font-size: 16px;
+  margin: 2px;
 }
