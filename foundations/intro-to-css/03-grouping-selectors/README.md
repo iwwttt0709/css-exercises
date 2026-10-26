@@ -14,6 +14,6 @@ This will help you further practice adding classes and using class selectors, so
 
 ### Self Check
 
-1- Does each element have a unique class name?
+0- Does each element have a unique class name?
 1- Did you use the grouping selector for styles that both elements share?
 1- Did you make separate rules for the styles unique to each element?
