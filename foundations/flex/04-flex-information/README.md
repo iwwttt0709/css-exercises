@@ -10,10 +10,10 @@ For this one you will need to edit the HTML a little bit too. We can't be making
 
 ### Self Check
 
-- All items are centered on the page (horizontally, not vertically).
-- The title is centered on the page.
-- There is 32px between the title and the 'items.'
-- There is 52px between each item.
-- The items are arranged horizontally on the page.
-- The items are only 200px wide and the text wraps.
-- The item text is centered.
+1- All items are centered on the page (horizontally, not vertically).
+1- The title is centered on the page.
+1- There is 32px between the title and the 'items.'
+1- There is 52px between each item.
+1- The items are arranged horizontally on the page.
+1- The items are only 200px wide and the text wraps.
+1- The item text is centered.
