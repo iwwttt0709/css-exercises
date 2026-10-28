@@ -59,9 +59,9 @@
   gap: 50px;
 }
 
-.photo {
-  display: flex;
-  justify-content: center;
+.photo, .side-content {
+  display: grid;
+  justify-items: center;
   align-items: center;
 }
 
@@ -80,9 +80,6 @@
   border-radius: 10px;
   font-size: 16px;
   font-weight: normal;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .nav {
