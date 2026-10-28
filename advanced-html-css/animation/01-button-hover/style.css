@@ -16,4 +16,11 @@ button {
   font-size: 18px;
   padding: 16px 24px;
   text-align: center;
+  opacity: 0.5;
+  transition: 1s;
+}
+
+#transition-container button:hover {
+  opacity: 1;
+  scale: 1.5;
 }
